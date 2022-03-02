@@ -1,3 +1,3 @@
-# My GitHub Project
+# Сайт созданный по макету
 
-This is my GitHub project. I published it directly from Visual Studio Code.
+Данный сайт был создан в целях, продемонстрировать мои возможности в верстки сайта по макету.
